@@ -1,7 +1,1 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
-
-This is Rob, hello Alice!
-Yet more text
-Blah, blah, blah. Blah
-Just Adding some more text.
-Kylo Ren: MORE!
